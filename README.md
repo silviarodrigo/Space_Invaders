@@ -3,6 +3,7 @@
 A console-based implementation of the classic arcade game Space Invaders, recreating the iconic alien-shooting experience entirely in text mode.
 
 **How to play**
+
 The objective is to defend your ship against waves of descending aliens. The rules are straightforward:
 
 - Control your UCMShip (marked with "^__^") at the bottom of the 9×8 grid
@@ -21,7 +22,8 @@ The objective is to defend your ship against waves of descending aliens. The rul
 - `list`: Display information about all ship types
 - `reset`: Restart with a new game configuration
 
-Features
+**Features**
+
 **Classic Arcade Action**: Faithful recreation of Space Invaders mechanics adapted for console play
 
 **Multiple Enemy Types**:
