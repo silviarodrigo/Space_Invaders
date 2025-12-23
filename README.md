@@ -12,7 +12,7 @@ The objective is to defend your ship against waves of descending aliens. The rul
 - Earn points by destroying aliens and the occasional UFO
 - Game ends when you lose all lives, aliens land, or all enemies are defeated
 
-**Key commands:**
+## Key commands:
 - `move <direction>`: Move your ship (left, lleft, right, rright)
 - `shoot`: Fire a regular laser
 - `shoot superlaser`: Fire a more powerful laser (costs 5 points)
@@ -22,7 +22,7 @@ The objective is to defend your ship against waves of descending aliens. The rul
 - `list`: Display information about all ship types
 - `reset`: Restart with a new game configuration
 
-**Features**
+## Features
 
 **Classic Arcade Action**: Faithful recreation of Space Invaders mechanics adapted for console play
 
@@ -43,5 +43,5 @@ The objective is to defend your ship against waves of descending aliens. The rul
 
 **Save & Debug Support**: Built-in random seed system allows reproducing specific game scenarios for testing
 
-Debug Mode
+## Debug Mode
 To enable reproducible testing, the game accepts a random seed parameter during initialization. Set the seed in the Main.java file to replay identical enemy patterns and test specific situations.
