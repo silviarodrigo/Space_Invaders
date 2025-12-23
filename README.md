@@ -1,8 +1,8 @@
-**Space Invaders**
+# Space Invaders
 
 A console-based implementation of the classic arcade game Space Invaders, recreating the iconic alien-shooting experience entirely in text mode.
 
-**How to play**
+## How to play
 
 The objective is to defend your ship against waves of descending aliens. The rules are straightforward:
 
