@@ -1,7 +1,7 @@
-Space Invaders - Console Version
-A console-based implementation of the classic arcade game Space Invaders. This project was developed as a first-year university programming assignment (TP1), recreating the iconic alien-shooting experience entirely in text mode.
+**Space Invaders**
+A console-based implementation of the classic arcade game Space Invaders, recreating the iconic alien-shooting experience entirely in text mode.
 
-How to play
+**How to play**
 The objective is to defend your ship against waves of descending aliens. The rules are straightforward:
 
 - Control your UCMShip (marked with "^__^") at the bottom of the 9×8 grid
@@ -10,7 +10,7 @@ The objective is to defend your ship against waves of descending aliens. The rul
 - Earn points by destroying aliens and the occasional UFO
 - Game ends when you lose all lives, aliens land, or all enemies are defeated
 
-Key commands:
+***Key commands:***
 - `move <direction>`: Move your ship (left, lleft, right, rright)
 - `shoot`: Fire a regular laser
 - `shoot superlaser`: Fire a more powerful laser (costs 5 points)
